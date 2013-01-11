@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1357893171 source:c:\users\2ºdai\desktop\xml\xml\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<rapidxml.hpp>
+
+1294020210 c:\users\2ºdai\downloads\mxml-2.7\mxml.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+
+1242171978 c:\users\2ºdai\downloads\rapidxml-1.13\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+

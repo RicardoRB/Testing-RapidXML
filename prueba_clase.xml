@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE examenes SYSTEM "C:\Users\Administrador\Dropbox\Modulo DAM\Lenguajes de Marcas\2 Evaluacion\Tema 4\prueba_clase.dtd">
+<examenes>
+	<examen curso="1" fecha="21-02-2011"> Lenguaje de Marcas
+		<autor id="tutor"> Pepe </autor>
+		<autor id="profesor"> Luisa </autor>
+		<preguntas>
+			<pregunta tipo="test" codigo="P1">
+				<puntos acierto="1" fallo="-0.25"/>
+				<enunciado> Texto del enunciado </enunciado>
+				<respuesta> a </respuesta>
+				<solucion> a </solucion>
+			</pregunta>
+		</preguntas>
+	</examen>
+	<corrige tutor="tutor"/>
+</examenes>

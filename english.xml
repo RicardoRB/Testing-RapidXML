@@ -1,0 +1,12 @@
+﻿<resources>
+	<menu>
+		<string name="play">Play</string>
+		<string name="exit">Exit</string>
+	</menu>
+	<options>
+		
+	</options>
+	<talk>
+		
+	</talk>
+</resources>
