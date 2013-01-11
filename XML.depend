@@ -18,3 +18,9 @@
 	<new>
 	<exception>
 
+1357906970 source:c:\users\2ºdai\testing-rapidxml\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<rapidxml.hpp>
+
